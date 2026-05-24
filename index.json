@@ -1,0 +1,9 @@
+{
+  "title": "Secure Dev Workshop - Simple Flag",
+  "slug": "secure-dev-workshop-simple-flag",
+  "description": "Escenario simple: ejecutar el script de inicio para crear la flag en /home/killer/flag.txt (ubicado en killercoda-simple-task).",
+  "difficulty": "Easy",
+  "author": "andres-dcic",
+  "start_command": "killercoda-simple-task/start.sh",
+  "visibility": "public"
+}
