@@ -12,6 +12,6 @@
     }
   },
   "backend": {
-    "imageid": "ubuntu-2404"
+    "imageid": "killer-shell"
   }
 }
