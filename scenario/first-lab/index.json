@@ -1,8 +1,8 @@
 {
   "title": "First Lab",
-  "description": "My first Killercoda lab",
+  "description": "My first Killercoda scenario",
   "difficulty": "beginner",
-  "time": "10 minutes",
+  "time": "5 minutes",
   "details": {
     "intro": {
       "text": "intro.md"
@@ -12,6 +12,6 @@
     }
   },
   "backend": {
-    "imageid": "killer-shell"
+    "imageid": "killercoda/ubuntu"
   }
 }
